@@ -7,7 +7,7 @@
 
 ```
 <slug>/privacy/index.md      앱 하나의 개인정보 처리방침 (한국어, 기준 문서, Play Console에 등록)
-<slug>/privacy/en/index.md   영문판 (번역 + EEA·영국 이용자 추가 조항)
+<slug>/privacy/en/index.md   영문판 (번역 + 지역별 이용자 추가 조항)
 <slug>/terms/index.md        (필요해지면) 같은 앱의 이용약관
 index.md                     앱 목록
 ```
@@ -15,6 +15,7 @@ index.md                     앱 목록
 | 앱 | slug | 처리방침 주소 |
 |---|---|---|
 | 트리니티: 영웅 원정대 (`com.kero.brayne`) | `brayne` | https://ywlee861009.github.io/policies/brayne/privacy/ (영문 `en/`) |
+| 아델린의 작은 식탁 (Adeline’s Little Table) | `adeline` | https://ywlee861009.github.io/policies/adeline/privacy/ (영문 `en/`) |
 
 ## 규칙
 

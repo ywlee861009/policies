@@ -9,3 +9,4 @@ title: 케로스튜디오 정책
 | 앱 | 플랫폼 | 개인정보 처리방침 |
 |---|---|---|
 | 트리니티: 영웅 원정대 (Trinity: Hero Expedition) | Android | [한국어](brayne/privacy/) · [English](brayne/privacy/en/) |
+| 아델린의 작은 식탁 (Adeline’s Little Table) | 출시 준비 | [한국어](adeline/privacy/) · [English](adeline/privacy/en/) |

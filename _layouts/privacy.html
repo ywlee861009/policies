@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+{%- comment -%}
+  Adeline policy pages use the repository's theme without the default remote anchor script.
+  Markdown remains the source; GitHub Pages renders it through this Jekyll layout.
+{%- endcomment -%}
+{%- assign page_lang = page.lang | default: site.lang | default: "ko" -%}
+<html lang="{{ page_lang }}">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="referrer" content="no-referrer">
+{% seo %}
+    <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+    <style>
+      .markdown-body { overflow-wrap: anywhere; }
+      .markdown-body table { display: block; max-width: 100%; overflow-x: auto; }
+      .markdown-body td, .markdown-body th { min-width: 7rem; }
+      .markdown-body a:focus-visible { outline: 3px solid #b57923; outline-offset: 3px; }
+      @media print { .markdown-body table { display: table; overflow: visible; } }
+    </style>
+  </head>
+  <body>
+    <main class="container-lg px-3 my-5 markdown-body">
+      {% if site.title and site.title != page.title %}
+      <h1><a href="{{ "/" | absolute_url }}">{% if page_lang == "en" %}Kero Studio Policies{% else %}{{ site.title }}{% endif %}</a></h1>
+      {% endif %}
+      {{ content }}
+    </main>
+  </body>
+</html>
