@@ -1,0 +1,8 @@
+---
+layout: privacy
+---
+<p lang="ko">브라우저 언어에 따라 한국어 또는 영어로 이동합니다. 위에서 언어를 직접 선택할 수도 있습니다.</p>
+<p lang="en">The policy opens in Korean or English based on your browser language. You can also choose a language above. The full English policy is available below.</p>
+
+{% assign english_policy = site.pages | where: 'path', page.english_source | first %}
+{{ english_policy.content | markdownify }}

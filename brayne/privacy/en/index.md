@@ -1,16 +1,16 @@
 ---
 title: "Trinity: Hero Expedition Privacy Policy"
 lang: en
+layout: privacy
+policy_root: /brayne/privacy/
 ---
-
-[한국어](../) · **English**
 
 # Trinity: Hero Expedition Privacy Policy
 
 Kero Studio ("we") operates the Android game *Trinity: Hero Expedition* (app ID `com.kero.brayne`, the "Game").
 This policy explains what personal information is processed when you play the Game, why, and how you can control it.
 
-This English version is a translation of the [Korean policy](../) with additional information for users in the
+This English version is a translation of the [Korean policy](https://ywlee861009.github.io/policies/brayne/privacy/ko/) with additional information for users in the
 European Economic Area (EEA) and the United Kingdom ([section 11](#11-additional-information-for-users-in-the-eea-and-uk)).
 If the two versions differ, the Korean version prevails unless the law of your country requires otherwise.
 

@@ -2,9 +2,8 @@
 title: "Adeline’s Little Table Privacy Policy"
 lang: en
 layout: privacy
+policy_root: /adeline/privacy/
 ---
-
-[한국어](../) · **English**
 
 [U.S. rights](#rights) · [EEA legal bases](#basis) · [EEA rights](#eea-rights)
 

@@ -3,3 +3,4 @@ description: 케로스튜디오 앱·게임의 개인정보 처리방침
 lang: ko
 exclude:
   - README.md
+  - scripts

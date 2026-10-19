@@ -2,16 +2,15 @@
 title: "Passing By Privacy Policy"
 lang: en
 layout: privacy
+policy_root: /passingby/privacy/
 ---
-
-[한국어](../) · **English**
 
 # Passing By Privacy Policy
 
 Kero Studio ("we") operates the Android app *Passing By* (app ID `com.kero.passingby`, the "App").
 This policy explains what personal information is processed when you use the App, why, and how you can control it.
 
-This English version is a translation of the [Korean policy](../) with additional information for users in the
+This English version is a translation of the [Korean policy](https://ywlee861009.github.io/policies/passingby/privacy/ko/) with additional information for users in the
 European Economic Area (EEA) and the United Kingdom ([section 12](#eea-uk)).
 If the two versions differ, the Korean version prevails unless the law of your country requires otherwise.
 

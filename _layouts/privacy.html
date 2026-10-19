@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 {%- comment -%}
-  Privacy policy pages (adeline, passingby) use the repository's theme without the default remote anchor script.
+  All privacy policy pages use the repository's theme without the default remote anchor script.
   Markdown remains the source; GitHub Pages renders it through this Jekyll layout.
 {%- endcomment -%}
 {%- assign page_lang = page.lang | default: site.lang | default: "ko" -%}
@@ -11,12 +11,22 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="referrer" content="no-referrer">
 {% seo %}
+    {% if page.policy_root %}
+    <link rel="alternate" hreflang="ko" href="{{ page.policy_root | append: 'ko/' | absolute_url }}">
+    <link rel="alternate" hreflang="en" href="{{ page.policy_root | append: 'en/' | absolute_url }}">
+    <link rel="alternate" hreflang="x-default" href="{{ page.policy_root | absolute_url }}">
+    {% endif %}
+    {% if page.auto_language %}
+    <script defer src="{{ '/assets/js/privacy-language.js' | relative_url }}" data-policy-root="{{ page.policy_root | relative_url }}"></script>
+    {% endif %}
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
     <style>
       .markdown-body { overflow-wrap: anywhere; }
       .markdown-body table { display: block; max-width: 100%; overflow-x: auto; }
       .markdown-body td, .markdown-body th { min-width: 7rem; }
       .markdown-body a:focus-visible { outline: 3px solid #b57923; outline-offset: 3px; }
+      .policy-languages { display: flex; flex-wrap: wrap; gap: 1rem; padding: .75rem 0; margin-bottom: 1.5rem; border-bottom: 1px solid #d0d7de; }
+      .policy-languages [aria-current="page"] { font-weight: bold; text-decoration: underline; }
       @media print { .markdown-body table { display: table; overflow: visible; } }
     </style>
   </head>
@@ -24,6 +34,12 @@
     <main class="container-lg px-3 my-5 markdown-body">
       {% if site.title and site.title != page.title %}
       <h1><a href="{{ "/" | absolute_url }}">{% if page_lang == "en" %}Kero Studio Policies{% else %}{{ site.title }}{% endif %}</a></h1>
+      {% endif %}
+      {% if page.policy_root %}
+      <nav class="policy-languages" aria-label="{% if page_lang == 'ko' %}언어 선택{% else %}Language selection{% endif %}">
+        <a href="{{ page.policy_root | append: 'ko/' | relative_url }}" hreflang="ko" lang="ko"{% if page_lang == 'ko' and page.auto_language != true %} aria-current="page"{% endif %}>한국어</a>
+        <a href="{{ page.policy_root | append: 'en/' | relative_url }}" hreflang="en" lang="en"{% if page_lang == 'en' and page.auto_language != true %} aria-current="page"{% endif %}>English</a>
+      </nav>
       {% endif %}
       {{ content }}
     </main>
