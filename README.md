@@ -25,6 +25,11 @@ BRAYNE (트리니티: 영웅 원정대)의 Play Console 서비스 약관 URL은
 https://ywlee861009.github.io/policies/brayne/terms/ 이다.
 고정 한국어판은 `brayne/terms/ko/`, 영문판은 `brayne/terms/en/`이며 개인정보 처리방침과 별도 문서다.
 
+Passing By의 Play Console 서비스 약관 URL은
+https://ywlee861009.github.io/policies/passingby/terms/ 이다.
+고정 한국어판은 `passingby/terms/ko/`, 영문판은 `passingby/terms/en/`이다.
+코스별 일회성 구매·복원·환불, 타이머·알림, 로컬 여행 기록·기기 백업에 관한 앱 전용 약관이다.
+
 ## 언어 선택
 
 - Play Console에는 기존 `<slug>/privacy/` 주소 하나를 계속 등록한다.

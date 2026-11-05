@@ -24,7 +24,7 @@ function redirect({ slug, section = "privacy", language, languages = [], query =
   return destination;
 }
 
-for (const [slug, section] of [["adeline", "privacy"], ["brayne", "privacy"], ["passingby", "privacy"], ["brayne", "terms"]]) {
+for (const [slug, section] of [["adeline", "privacy"], ["brayne", "privacy"], ["passingby", "privacy"], ["brayne", "terms"], ["passingby", "terms"]]) {
   const base = `https://ywlee861009.github.io/policies/${slug}/${section}/`;
   test(`${slug}/${section}: Korean primary language opens Korean; all other primary languages open English`, () => {
     for (const [language, expected] of [["ko", "ko"], ["ko-KR", "ko"], ["KO-kr", "ko"], ["en-US", "en"], ["ja-JP", "en"], ["de", "en"], ["", "en"], [undefined, "en"]]) {
