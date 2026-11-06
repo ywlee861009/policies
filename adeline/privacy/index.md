@@ -1,5 +1,5 @@
 ---
-title: "Adeline’s Little Table Privacy Policy"
+title: "Adeline's Little Shop Privacy Policy"
 lang: en
 layout: privacy-gateway
 policy_root: /adeline/privacy/

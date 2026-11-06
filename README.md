@@ -18,7 +18,7 @@ index.md                     앱 목록
 | 앱 | slug | 처리방침 주소 (언어 자동 선택) |
 |---|---|---|
 | 트리니티: 영웅 원정대 (`com.kero.brayne`) | `brayne` | https://ywlee861009.github.io/policies/brayne/privacy/ (영문 `en/`) |
-| 아델린의 작은 식탁 (Adeline’s Little Table) | `adeline` | https://ywlee861009.github.io/policies/adeline/privacy/ (영문 `en/`) |
+| 아델린의 작은 가게 (Adeline's Little Shop, `com.kero.adeline`) | `adeline` | https://ywlee861009.github.io/policies/adeline/privacy/ (영문 `en/`) |
 | Passing By (`com.kero.passingby`) | `passingby` | https://ywlee861009.github.io/policies/passingby/privacy/ (영문 `en/`) |
 | Cubie (`com.kero.cubie`) | `cubie` | https://ywlee861009.github.io/policies/cubie/privacy/ (영문 `en/`) |
 | DoIt! 사자성어 (`com.kero.idiom`) | `idiom` | https://ywlee861009.github.io/policies/idiom/privacy/ (영문 `en/`) |
@@ -26,6 +26,11 @@ index.md                     앱 목록
 BRAYNE (트리니티: 영웅 원정대)의 Play Console 서비스 약관 URL은
 https://ywlee861009.github.io/policies/brayne/terms/ 이다.
 고정 한국어판은 `brayne/terms/ko/`, 영문판은 `brayne/terms/en/`이며 개인정보 처리방침과 별도 문서다.
+
+아델린의 작은 가게의 Play Console 서비스 약관 URL은
+https://ywlee861009.github.io/policies/adeline/terms/ 이다.
+고정 한국어판은 `adeline/terms/ko/`, 영문판은 `adeline/terms/en/`이다.
+머지 플레이, 로컬 저장과 파일 백업, 선택형 보상 테스트 광고에 관한 앱 전용 약관이다.
 
 Passing By의 Play Console 서비스 약관 URL은
 https://ywlee861009.github.io/policies/passingby/terms/ 이다.

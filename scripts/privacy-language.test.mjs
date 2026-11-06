@@ -26,6 +26,7 @@ function redirect({ slug, section = "privacy", language, languages = [], query =
 
 for (const [slug, section] of [
   ["adeline", "privacy"],
+  ["adeline", "terms"],
   ["brayne", "privacy"],
   ["passingby", "privacy"],
   ["brayne", "terms"],

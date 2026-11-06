@@ -9,7 +9,7 @@ title: 케로스튜디오 정책
 | 앱 | 플랫폼 | 개인정보 처리방침 | 이용약관 |
 |---|---|---|---|
 | 트리니티: 영웅 원정대 (Trinity: Hero Expedition / BRAYNE) | Android | [자동 선택 / Auto](brayne/privacy/) · [한국어](brayne/privacy/ko/) · [English](brayne/privacy/en/) | [자동 선택 / Auto](brayne/terms/) · [한국어](brayne/terms/ko/) · [English](brayne/terms/en/) |
-| 아델린의 작은 식탁 (Adeline’s Little Table) | 출시 준비 | [자동 선택 / Auto](adeline/privacy/) · [한국어](adeline/privacy/ko/) · [English](adeline/privacy/en/) | — |
+| 아델린의 작은 가게 (Adeline's Little Shop) | Android | [자동 선택 / Auto](adeline/privacy/) · [한국어](adeline/privacy/ko/) · [English](adeline/privacy/en/) | [자동 선택 / Auto](adeline/terms/) · [한국어](adeline/terms/ko/) · [English](adeline/terms/en/) |
 | Passing By | Android (출시 준비) | [자동 선택 / Auto](passingby/privacy/) · [한국어](passingby/privacy/ko/) · [English](passingby/privacy/en/) | [자동 선택 / Auto](passingby/terms/) · [한국어](passingby/terms/ko/) · [English](passingby/terms/en/) |
 | Cubie | Android | [자동 선택 / Auto](cubie/privacy/) · [한국어](cubie/privacy/ko/) · [English](cubie/privacy/en/) | [자동 선택 / Auto](cubie/terms/) · [한국어](cubie/terms/ko/) · [English](cubie/terms/en/) |
 | DoIt! 사자성어 | Android | [자동 선택 / Auto](idiom/privacy/) · [한국어](idiom/privacy/ko/) · [English](idiom/privacy/en/) | [자동 선택 / Auto](idiom/terms/) · [한국어](idiom/terms/ko/) · [English](idiom/terms/en/) |
