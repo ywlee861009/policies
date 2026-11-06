@@ -11,3 +11,4 @@ title: 케로스튜디오 정책
 | 트리니티: 영웅 원정대 (Trinity: Hero Expedition / BRAYNE) | Android | [자동 선택 / Auto](brayne/privacy/) · [한국어](brayne/privacy/ko/) · [English](brayne/privacy/en/) | [자동 선택 / Auto](brayne/terms/) · [한국어](brayne/terms/ko/) · [English](brayne/terms/en/) |
 | 아델린의 작은 식탁 (Adeline’s Little Table) | 출시 준비 | [자동 선택 / Auto](adeline/privacy/) · [한국어](adeline/privacy/ko/) · [English](adeline/privacy/en/) | — |
 | Passing By | Android (출시 준비) | [자동 선택 / Auto](passingby/privacy/) · [한국어](passingby/privacy/ko/) · [English](passingby/privacy/en/) | [자동 선택 / Auto](passingby/terms/) · [한국어](passingby/terms/ko/) · [English](passingby/terms/en/) |
+| Cubie | Android | [자동 선택 / Auto](cubie/privacy/) · [한국어](cubie/privacy/ko/) · [English](cubie/privacy/en/) | [자동 선택 / Auto](cubie/terms/) · [한국어](cubie/terms/ko/) · [English](cubie/terms/en/) |

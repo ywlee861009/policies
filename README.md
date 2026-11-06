@@ -20,6 +20,7 @@ index.md                     앱 목록
 | 트리니티: 영웅 원정대 (`com.kero.brayne`) | `brayne` | https://ywlee861009.github.io/policies/brayne/privacy/ (영문 `en/`) |
 | 아델린의 작은 식탁 (Adeline’s Little Table) | `adeline` | https://ywlee861009.github.io/policies/adeline/privacy/ (영문 `en/`) |
 | Passing By (`com.kero.passingby`) | `passingby` | https://ywlee861009.github.io/policies/passingby/privacy/ (영문 `en/`) |
+| Cubie (`com.kero.cubie`) | `cubie` | https://ywlee861009.github.io/policies/cubie/privacy/ (영문 `en/`) |
 
 BRAYNE (트리니티: 영웅 원정대)의 Play Console 서비스 약관 URL은
 https://ywlee861009.github.io/policies/brayne/terms/ 이다.
@@ -29,6 +30,11 @@ Passing By의 Play Console 서비스 약관 URL은
 https://ywlee861009.github.io/policies/passingby/terms/ 이다.
 고정 한국어판은 `passingby/terms/ko/`, 영문판은 `passingby/terms/en/`이다.
 코스별 일회성 구매·복원·환불, 타이머·알림, 로컬 여행 기록·기기 백업에 관한 앱 전용 약관이다.
+
+Cubie의 Play Console 서비스 약관 URL은
+https://ywlee861009.github.io/policies/cubie/terms/ 이다.
+고정 한국어판은 `cubie/terms/ko/`, 영문판은 `cubie/terms/en/`이다.
+3×3 큐브 연습, 카메라 스캔, 보상형 광고 및 풀이 기록에 관한 앱 전용 약관이다.
 
 ## 언어 선택
 
